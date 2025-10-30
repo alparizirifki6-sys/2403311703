@@ -1,0 +1,23 @@
+{
+  "name": "2403311703",
+  "version": "1.0.0",
+  "description": "RIFKI ALPARIZI# 2403311703",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alparizirifki6-sys/2403311703.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alparizirifki6-sys/2403311703/issues"
+  },
+  "homepage": "https://github.com/alparizirifki6-sys/2403311703#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
